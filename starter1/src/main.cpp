@@ -331,11 +331,12 @@ void loadObjects(int argc, char *argv[])
     if (!parseFile(in, gCtrlPoints,
         gCurves, gCurveNames,
         gSurfaces, gSurfaceNames)) {
+        cout<<"errooooooooor"<<endl;
         cerr << "\aerror in file format\a" << endl;
         in.close();
         exit(-1);
     }
-
+    cout<<"the number of curves is "<<gCurves.size()<<endl;
     in.close();
 
     // This does OBJ file output
@@ -365,6 +366,7 @@ void loadObjects(int argc, char *argv[])
         }
     }
     cerr << endl << "*** done ***" << endl;
+    // cout<<"the number of curves is "<<gCurves.size()<<endl;
 }
 
 void recordVertices() {

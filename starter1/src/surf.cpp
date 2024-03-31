@@ -53,7 +53,7 @@ Surface makeSurfRev(const Curve &profile, unsigned steps)
     int num = profile.size()*(steps);
     int total = num;
     for(unsigned int i=0;i<=steps ;i++){
-        cout<<"the i round "<<i<<" is done"<<endl;
+        //cout<<"the i round "<<i<<" is done"<<endl;
         float theta = i * delta;
         Matrix4f M(cos(theta), 0, sin(theta), 0,
                     0, 1, 0, 0,

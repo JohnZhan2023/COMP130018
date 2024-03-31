@@ -21,7 +21,6 @@ struct CurvePoint
 // This is just a handy shortcut.
 typedef std::vector< CurvePoint > Curve;
 
-
 ////////////////////////////////////////////////////////////////////////////
 // The following two functions take an array of control points (stored
 // in P) and generate an STL Vector of CurvePoints.  They should
@@ -47,5 +46,5 @@ class VertexRecorder;
 void recordCurve( const Curve& curve, VertexRecorder* recorder);
 // Record the curve's associated coordinate frames
 void recordCurveFrames( const Curve& curve, VertexRecorder* recorder, float framesize);
-
+Curve process_for_B(const std::vector< Vector3f >& P, unsigned steps, Vector3f& B);
 #endif
