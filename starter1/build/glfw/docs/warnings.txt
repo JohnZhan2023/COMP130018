@@ -1,0 +1,468 @@
+<unknown>:1191: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3968: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3968: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3968: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3972: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3851: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3851: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3853: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4001: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4001: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4001: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4011: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4014: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3829: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3829: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3829: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3832: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3922: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3922: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3922: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3934: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:556: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:604: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:530: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:541: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:520: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:620: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:510: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:548: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:591: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:573: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:803: warning: argument 'error' of command @param is not found in the argument list of GLFWerrorfun(int, const char *)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:803: warning: argument 'description' of command @param is not found in the argument list of GLFWerrorfun(int, const char *)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1289: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1293: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1318: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1322: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1324: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1227: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1227: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1234: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1355: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1359: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1257: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1257: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1264: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1266: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1036: warning: argument 'window' of command @param is not found in the argument list of GLFWcharfun(GLFWwindow *, unsigned int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1036: warning: argument 'codepoint' of command @param is not found in the argument list of GLFWcharfun(GLFWwindow *, unsigned int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1047: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1054: warning: argument 'window' of command @param is not found in the argument list of GLFWcharmodsfun(GLFWwindow *, unsigned int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1054: warning: argument 'codepoint' of command @param is not found in the argument list of GLFWcharmodsfun(GLFWwindow *, unsigned int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1054: warning: argument 'mods' of command @param is not found in the argument list of GLFWcharmodsfun(GLFWwindow *, unsigned int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:981: warning: argument 'window' of command @param is not found in the argument list of GLFWcursorenterfun(GLFWwindow *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:981: warning: argument 'entered' of command @param is not found in the argument list of GLFWcursorenterfun(GLFWwindow *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:962: warning: argument 'window' of command @param is not found in the argument list of GLFWcursorposfun(GLFWwindow *, double, double)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:962: warning: argument 'xpos' of command @param is not found in the argument list of GLFWcursorposfun(GLFWwindow *, double, double)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:962: warning: argument 'ypos' of command @param is not found in the argument list of GLFWcursorposfun(GLFWwindow *, double, double)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1074: warning: argument 'window' of command @param is not found in the argument list of GLFWdropfun(GLFWwindow *, int, const char **)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1074: warning: argument 'count' of command @param is not found in the argument list of GLFWdropfun(GLFWwindow *, int, const char **)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1074: warning: argument 'paths' of command @param is not found in the argument list of GLFWdropfun(GLFWwindow *, int, const char **)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1107: warning: argument 'joy' of command @param is not found in the argument list of GLFWjoystickfun(int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1107: warning: argument 'event' of command @param is not found in the argument list of GLFWjoystickfun(int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1015: warning: argument 'window' of command @param is not found in the argument list of GLFWkeyfun(GLFWwindow *, int, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1015: warning: argument 'key' of command @param is not found in the argument list of GLFWkeyfun(GLFWwindow *, int, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1015: warning: argument 'scancode' of command @param is not found in the argument list of GLFWkeyfun(GLFWwindow *, int, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1015: warning: argument 'action' of command @param is not found in the argument list of GLFWkeyfun(GLFWwindow *, int, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1015: warning: argument 'mods' of command @param is not found in the argument list of GLFWkeyfun(GLFWwindow *, int, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1030: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:941: warning: argument 'window' of command @param is not found in the argument list of GLFWmousebuttonfun(GLFWwindow *, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:941: warning: argument 'button' of command @param is not found in the argument list of GLFWmousebuttonfun(GLFWwindow *, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:941: warning: argument 'action' of command @param is not found in the argument list of GLFWmousebuttonfun(GLFWwindow *, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:941: warning: argument 'mods' of command @param is not found in the argument list of GLFWmousebuttonfun(GLFWwindow *, int, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:956: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:998: warning: argument 'window' of command @param is not found in the argument list of GLFWscrollfun(GLFWwindow *, double, double)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:998: warning: argument 'xoffset' of command @param is not found in the argument list of GLFWscrollfun(GLFWwindow *, double, double)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:998: warning: argument 'yoffset' of command @param is not found in the argument list of GLFWscrollfun(GLFWwindow *, double, double)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3170: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3170: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3170: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3173: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3176: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3178: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3199: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3199: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3199: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3202: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3204: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3223: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3223: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3223: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3226: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3228: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3694: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3694: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3694: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3697: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3702: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3099: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3099: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3099: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3102: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2888: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2888: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2888: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2891: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3550: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3550: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3550: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3553: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3558: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3584: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3584: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3584: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3587: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3592: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3597: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3617: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3617: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3617: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3620: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3625: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3032: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3032: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3032: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3035: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3040: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2989: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2989: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2989: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2992: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2996: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3061: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3061: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3061: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3064: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3069: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3726: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3726: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3728: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3796: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3796: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3798: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3776: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3776: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3778: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3521: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3521: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3521: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3524: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3334: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3334: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3336: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3341: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3368: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3368: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3370: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3666: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3666: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3666: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3669: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3672: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3253: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3253: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3253: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3256: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3447: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3447: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3449: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3136: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3136: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3136: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3139: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3423: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3423: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3425: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3502: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3502: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3504: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2936: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2936: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2936: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2939: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3646: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3646: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3648: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3296: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3296: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3298: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3303: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3397: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3397: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3399: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3404: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3474: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3474: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3476: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3748: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3748: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3748: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3755: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1091: warning: argument 'monitor' of command @param is not found in the argument list of GLFWmonitorfun(GLFWmonitor *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1091: warning: argument 'event' of command @param is not found in the argument list of GLFWmonitorfun(GLFWmonitor *, int)
+<unknown>:1132: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1621: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1621: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1621: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1624: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1629: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1491: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1491: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1493: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1497: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1466: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1466: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1471: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1434: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1434: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1434: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1437: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1380: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1380: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1382: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1386: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1406: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1406: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1408: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1573: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1573: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1573: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1576: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1580: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1543: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1543: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1543: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1546: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1551: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1557: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1600: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1600: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1600: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1603: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1648: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1648: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1648: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1656: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1659: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1518: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1518: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1520: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:191: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:205: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:427: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:413: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:441: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:295: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:309: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:369: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:383: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:397: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:221: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:325: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:339: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:353: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:175: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:130: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:145: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:159: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:251: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:237: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:265: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3native.h:279: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4201: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4201: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4201: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4209: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4122: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4122: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4122: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4125: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4128: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4157: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4157: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4157: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4160: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4072: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4072: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4072: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4080: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4084: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4039: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4039: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:4041: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:923: warning: argument 'window' of command @param is not found in the argument list of GLFWframebuffersizefun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:923: warning: argument 'width' of command @param is not found in the argument list of GLFWframebuffersizefun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:923: warning: argument 'height' of command @param is not found in the argument list of GLFWframebuffersizefun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:856: warning: argument 'window' of command @param is not found in the argument list of GLFWwindowclosefun(GLFWwindow *)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:866: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:888: warning: argument 'window' of command @param is not found in the argument list of GLFWwindowfocusfun(GLFWwindow *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:888: warning: argument 'focused' of command @param is not found in the argument list of GLFWwindowfocusfun(GLFWwindow *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:905: warning: argument 'window' of command @param is not found in the argument list of GLFWwindowiconifyfun(GLFWwindow *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:905: warning: argument 'iconified' of command @param is not found in the argument list of GLFWwindowiconifyfun(GLFWwindow *, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:819: warning: argument 'window' of command @param is not found in the argument list of GLFWwindowposfun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:819: warning: argument 'xpos' of command @param is not found in the argument list of GLFWwindowposfun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:819: warning: argument 'ypos' of command @param is not found in the argument list of GLFWwindowposfun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:872: warning: argument 'window' of command @param is not found in the argument list of GLFWwindowrefreshfun(GLFWwindow *)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:882: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:838: warning: argument 'window' of command @param is not found in the argument list of GLFWwindowsizefun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:838: warning: argument 'width' of command @param is not found in the argument list of GLFWwindowsizefun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:838: warning: argument 'height' of command @param is not found in the argument list of GLFWwindowsizefun(GLFWwindow *, int, int)
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:850: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1778: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1778: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1778: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1823: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1825: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1674: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1674: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1676: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1846: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1846: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1846: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1852: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1854: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2382: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2382: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2382: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2385: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2193: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2193: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2193: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2196: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2477: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2477: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2477: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2488: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2231: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2231: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2231: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2234: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2404: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2404: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2406: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1985: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1985: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1985: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1988: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2045: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2045: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2045: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2048: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2054: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2529: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2529: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2531: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2353: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2353: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2353: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2356: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2255: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2255: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2255: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2258: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2265: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2307: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2307: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2307: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2746: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2746: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2746: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2749: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2751: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2863: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2863: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2863: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2866: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2282: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2282: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2282: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2285: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2292: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2716: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2716: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2718: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2123: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2123: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2123: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2129: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2609: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2609: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2614: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2619: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2670: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2670: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2672: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1949: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1949: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1949: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1952: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1961: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2693: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2693: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2695: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2450: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2450: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2450: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2453: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2015: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2015: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2015: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2018: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2024: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2555: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2555: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2557: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2641: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2641: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2643: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2648: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1894: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1894: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1896: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2162: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2162: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2162: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2165: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2172: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2579: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2579: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2581: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2586: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2083: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2083: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2083: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2089: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1915: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1915: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1915: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1921: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1926: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2508: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2508: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2510: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2331: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2331: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2331: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2334: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3880: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3880: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3880: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3886: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:3892: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2791: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2791: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2791: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2794: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2796: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2840: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:2842: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1701: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1701: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1701: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1704: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1872: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1872: warning: Illegal command @ref found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1874: warning: Illegal command \n found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1191: warning: Illegal command \n__GLFW found as part of a title section
+D:/COMP130018/starter1/glfw/include/GLFW/glfw3.h:1132: warning: Illegal command \n__GLFW found as part of a title section

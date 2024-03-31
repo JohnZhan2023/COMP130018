@@ -1,4 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
+set(CMAKE_CXX_STANDARD 11) # Compile as C++11.
+set(CMAKE_CXX_STANDARD_REQUIRED ON) # Require C++11 support.
+set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wno-unused-variable")
 
 project(a1)
 
@@ -68,3 +71,9 @@ list (APPEND A1_HEADER
 add_executable(a1 ${A1_SRC} ${A1_HEADER})
 target_include_directories(a1 PUBLIC ${A1_INCLUDES})
 target_link_libraries(a1 ${A1_LIBS})
+
+set(FILES "./src/curve.cpp" "./src/surf.cpp")
+add_custom_target(submit 
+  zip pj1-sol.zip ${FILES}
+  WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
+)
