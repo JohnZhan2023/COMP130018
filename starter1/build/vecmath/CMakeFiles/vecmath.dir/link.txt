@@ -1,2 +1,0 @@
-C:\mingw64\bin\ar.exe qc libvecmath.a CMakeFiles/vecmath.dir/Matrix2f.cpp.obj CMakeFiles/vecmath.dir/Matrix3f.cpp.obj CMakeFiles/vecmath.dir/Matrix4f.cpp.obj CMakeFiles/vecmath.dir/Quat4f.cpp.obj CMakeFiles/vecmath.dir/Vector2f.cpp.obj CMakeFiles/vecmath.dir/Vector3f.cpp.obj CMakeFiles/vecmath.dir/Vector4f.cpp.obj
-C:\mingw64\bin\ranlib.exe libvecmath.a

@@ -1,3 +1,0 @@
-C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\a1.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\a1.dir/objects.a @CMakeFiles\a1.dir\objects1.rsp
-C:\mingw64\bin\c++.exe  -Wall -Wno-unused-variable -g -Wl,--whole-archive CMakeFiles\a1.dir/objects.a -Wl,--no-whole-archive -o a1.exe -Wl,--out-implib,liba1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a1.dir\linkLibs.rsp

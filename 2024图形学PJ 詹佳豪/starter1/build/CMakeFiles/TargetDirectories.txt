@@ -1,0 +1,12 @@
+D:/COMP130018/starter1/build/CMakeFiles/a1.dir
+D:/COMP130018/starter1/build/CMakeFiles/submit.dir
+D:/COMP130018/starter1/build/CMakeFiles/edit_cache.dir
+D:/COMP130018/starter1/build/CMakeFiles/rebuild_cache.dir
+D:/COMP130018/starter1/build/glfw/CMakeFiles/edit_cache.dir
+D:/COMP130018/starter1/build/glfw/CMakeFiles/rebuild_cache.dir
+D:/COMP130018/starter1/build/glfw/src/CMakeFiles/glfw.dir
+D:/COMP130018/starter1/build/glfw/src/CMakeFiles/edit_cache.dir
+D:/COMP130018/starter1/build/glfw/src/CMakeFiles/rebuild_cache.dir
+D:/COMP130018/starter1/build/vecmath/CMakeFiles/vecmath.dir
+D:/COMP130018/starter1/build/vecmath/CMakeFiles/edit_cache.dir
+D:/COMP130018/starter1/build/vecmath/CMakeFiles/rebuild_cache.dir
