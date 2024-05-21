@@ -1,4 +1,5 @@
 #include "Object3D.h"
+#include "VecUtils.h"
 
 bool Sphere::intersect(const Ray &r, float tmin, Hit &h) const
 {
@@ -128,8 +129,9 @@ bool Triangle::intersect(const Ray &r, float tmin, Hit &h) const
         Matrix3f A=Matrix3f(_v[0],_v[1],_v[2],1);
         Matrix3f A_inv = A.inverse();
         param = A_inv*p;
-        if(param.x()<1&&param.x()>0&&param.y()<1&&param.y()>0&&param.z()<1&&param.z()>0&&t<h.getT()){
-            h.set(t,this->material,n);
+        if(param.x()<=1&&param.x()>=0&&param.y()<=1&&param.y()>=0&&param.z()<=1&&param.z()>=0&&t<h.getT()){
+            n=_normals[0]*param.x()+_normals[1]*param.y()+_normals[2]*param.z();
+            h.set(t,this->material,n.normalized());
             return true;
         }else{
             return false;
@@ -138,7 +140,37 @@ bool Triangle::intersect(const Ray &r, float tmin, Hit &h) const
     }
     
 }
-
+Matrix4f operator + (Matrix4f m1, const Matrix4f& m2){
+    Matrix4f m(m1.getCol(0)+m2.getCol(0),m1.getCol(1)+m2.getCol(1),m1.getCol(2)+m2.getCol(2),m1.getCol(3)+m2.getCol(3));
+    return m;
+}
+Matrix4f operator - (Matrix4f m1, const Matrix4f& m2){
+    Matrix4f m(m1.getCol(0)-m2.getCol(0),m1.getCol(1)-m2.getCol(1),m1.getCol(2)-m2.getCol(2),m1.getCol(3)-m2.getCol(3));
+    return m;
+}
+void decomposeMatrix(Matrix4f M, Matrix4f& T, Matrix4f& S, Matrix4f& R) {
+    //for a scaling and rotation transformation, we decompose it into a scaling matrix and a rotation matrix
+    T = Matrix4f(1, 0, 0, M(0, 3),
+                 0, 1, 0, M(1, 3),
+                 0, 0, 1, M(2, 3),
+                 0, 0, 0, 1);
+    Matrix4f R_new(M(0,0),M(0,1),M(0,2),0,
+                    M(1,0),M(1,1),M(1,2),0,
+                    M(2,0),M(2,1),M(2,2),0,
+                    0,0,0,1);
+    //then we implement polar decomposition to find the R
+    R=R_new;
+    float dis=100;
+    do{
+        R_new = 0.5*(R +R.transposed().inverse());
+        //R_new.print();
+        Matrix4f delta = R_new-R;
+        dis = delta.getCol(0).absSquared()+delta.getCol(1).absSquared()+delta.getCol(2).absSquared();
+        R = R_new;
+    }while(dis>0.001);
+    S=R.inverse()*M;
+    return ;
+}
 
 Transform::Transform(const Matrix4f &m,
     Object3D *obj) : _object(obj) {
@@ -146,33 +178,40 @@ Transform::Transform(const Matrix4f &m,
     M=m;
 
 }
+
 bool Transform::intersect(const Ray &r, float tmin, Hit &h) const
 {
     // TODO implement
-    //std::cout<<"The old ray is :"<<r.getDirection().x()<<" "<<r.getDirection().y()<<" "<<r.getDirection().z()<<std::endl;    
+    //std::cout<<"The old ray is :"<<r.getDirection().x()<<" "<<r.getDirection().y()<<" "<<r.getDirection().z()<<std::endl; 
+
     Matrix4f M_inv= M.inverse();
     Vector3f o=r.getOrigin();
     Vector3f d=r.getDirection();
-    Vector4f o_=Vector4f(o.x(),o.y(),o.z(),1);
-    Vector4f d_=Vector4f(d.x(),d.y(),d.z(),0);
-    Vector4f o_local = M_inv*o_;
-    Vector4f d_local = M_inv*d_;
-    Vector3f orig=Vector3f(o_local.x(),o_local.y(),o_local.z());
-    Vector3f dir=Vector3f(d_local.x(),d_local.y(),d_local.z());
+    Vector3f orig=VecUtils::transformPoint(M_inv,o);
+    Vector3f dir=VecUtils::transformDirection(M_inv,d);
     Ray new_r(orig,dir);
     //std::cout<<"The new ray is :"<<new_r.getDirection().x()<<" "<<new_r.getDirection().y()<<" "<<new_r.getDirection().z()<<std::endl;
     //std::cout<<_object->getType()<<std::endl;
     bool result =_object->intersect(new_r,tmin,h);
-
+    //we should conduct matrix decomposition
     //std::cout<<"The result is :"<<result<<std::endl;
+    Matrix4f T,S,R;
+
     if(result){
         Vector3f n=h.getNormal().normalized();
-        Vector4f n_=Vector4f(n.x(),n.y(),n.z(),1);
-        Vector4f n_global = M*n_;
-        h.set(h.getT(),h.getMaterial(),Vector3f(n_global.x(),n_global.y(),n_global.z()));
+        decomposeMatrix(M_inv,T,S,R);
+        Vector3f n_global = VecUtils::transformDirection(M,n);
+        //std::cout<<"the type:"<<this->_object->type<<std::endl;
+        //R.print();
+        if(dynamic_cast<Sphere*>(_object)){
+            h.set(h.getT(),h.getMaterial(),VecUtils::transformDirection(T.inverse(),VecUtils::transformDirection(S,VecUtils::transformDirection(R.inverse(),n))));
+            //std::cout<<"The normal is :"<<h.getNormal().x()<<" "<<h.getNormal().y()<<" "<<h.getNormal().z()<<std::endl;
+        }else
+        h.set(h.getT(),h.getMaterial(),n_global.normalized());
         //std::cout<<"The normal is :"<<h.getNormal().x()<<" "<<h.getNormal().y()<<" "<<h.getNormal().z()<<std::endl;
     }
     
 
     return result;
 }
+

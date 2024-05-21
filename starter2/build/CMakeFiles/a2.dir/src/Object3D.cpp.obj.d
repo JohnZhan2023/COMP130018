@@ -158,4 +158,11 @@ CMakeFiles/a2.dir/src/Object3D.cpp.obj: \
  C:/mingw64/include/c++/13.0.1/bits/stl_uninitialized.h \
  C:/mingw64/include/c++/13.0.1/bits/stl_vector.h \
  C:/mingw64/include/c++/13.0.1/bits/stl_bvector.h \
- C:/mingw64/include/c++/13.0.1/bits/vector.tcc
+ C:/mingw64/include/c++/13.0.1/bits/vector.tcc \
+ D:\COMP130018\starter2\src\VecUtils.h \
+ C:/mingw64/include/c++/13.0.1/algorithm \
+ C:/mingw64/include/c++/13.0.1/bits/stl_algo.h \
+ C:/mingw64/include/c++/13.0.1/bits/algorithmfwd.h \
+ C:/mingw64/include/c++/13.0.1/bits/stl_heap.h \
+ C:/mingw64/include/c++/13.0.1/bits/uniform_int_dist.h \
+ C:/mingw64/include/c++/13.0.1/bits/stl_tempbuf.h

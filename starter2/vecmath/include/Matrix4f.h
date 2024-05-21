@@ -109,5 +109,4 @@ Matrix4f operator * (const Matrix4f& x, const Matrix4f& y);
 Matrix4f operator * (const Matrix4f& m, float f);
 Matrix4f operator * (float f, const Matrix4f& m);
 
-
 #endif // MATRIX4F_H

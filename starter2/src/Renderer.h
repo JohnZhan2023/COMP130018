@@ -20,8 +20,10 @@ class Renderer
     Vector3f traceRay(const Ray &ray, float tmin, int bounces, 
                       Hit &hit) const;
 
+
     ArgParser _args;
     SceneParser _scene;
+    
 };
 
 #endif // RENDERER_H

@@ -42,6 +42,7 @@ public:
     Sphere() {
         _center = Vector3f(0.0, 0.0, 0.0);
         _radius = 1.0f;
+        type = "Sphere";
     }
 
     Sphere(const Vector3f &center,

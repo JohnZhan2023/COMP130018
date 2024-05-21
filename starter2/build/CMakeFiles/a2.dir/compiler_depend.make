@@ -1260,7 +1260,14 @@ CMakeFiles/a2.dir/src/Object3D.cpp.obj: D:/COMP130018/starter2/src/Object3D.cpp 
   C:/mingw64/include/c++/13.0.1/bits/stl_uninitialized.h \
   C:/mingw64/include/c++/13.0.1/bits/stl_vector.h \
   C:/mingw64/include/c++/13.0.1/bits/stl_bvector.h \
-  C:/mingw64/include/c++/13.0.1/bits/vector.tcc
+  C:/mingw64/include/c++/13.0.1/bits/vector.tcc \
+  D:/COMP130018/starter2/src/VecUtils.h \
+  C:/mingw64/include/c++/13.0.1/algorithm \
+  C:/mingw64/include/c++/13.0.1/bits/stl_algo.h \
+  C:/mingw64/include/c++/13.0.1/bits/algorithmfwd.h \
+  C:/mingw64/include/c++/13.0.1/bits/stl_heap.h \
+  C:/mingw64/include/c++/13.0.1/bits/uniform_int_dist.h \
+  C:/mingw64/include/c++/13.0.1/bits/stl_tempbuf.h
 
 CMakeFiles/a2.dir/src/Octree.cpp.obj: D:/COMP130018/starter2/src/Octree.cpp \
   D:/COMP130018/starter2/src/Ray.h \
@@ -1615,7 +1622,14 @@ CMakeFiles/a2.dir/src/Renderer.cpp.obj: D:/COMP130018/starter2/src/Renderer.cpp 
   C:/mingw64/include/c++/13.0.1/bits/algorithmfwd.h \
   C:/mingw64/include/c++/13.0.1/bits/stl_heap.h \
   C:/mingw64/include/c++/13.0.1/bits/uniform_int_dist.h \
-  C:/mingw64/include/c++/13.0.1/bits/stl_tempbuf.h
+  C:/mingw64/include/c++/13.0.1/bits/stl_tempbuf.h \
+  C:/mingw64/include/c++/13.0.1/random \
+  C:/mingw64/include/c++/13.0.1/cstdint \
+  C:/mingw64/include/c++/13.0.1/bits/random.h \
+  C:/mingw64/include/c++/13.0.1/x86_64-w64-mingw32/bits/opt_random.h \
+  C:/mingw64/include/c++/13.0.1/bits/random.tcc \
+  C:/mingw64/include/c++/13.0.1/numeric \
+  C:/mingw64/include/c++/13.0.1/bits/stl_numeric.h
 
 CMakeFiles/a2.dir/src/SceneParser.cpp.obj: D:/COMP130018/starter2/src/SceneParser.cpp \
   C:/mingw64/include/c++/13.0.1/cstdio \
@@ -2105,6 +2119,10 @@ D:/COMP130018/starter2/src/main.cpp:
 
 D:/COMP130018/starter2/src/SceneParser.cpp:
 
+C:/mingw64/include/c++/13.0.1/bits/random.tcc:
+
+C:/mingw64/include/c++/13.0.1/random:
+
 D:/COMP130018/starter2/src/Renderer.h:
 
 C:/mingw64/include/c++/13.0.1/sstream:
@@ -2148,6 +2166,8 @@ D:/COMP130018/starter2/src/stb_image.h:
 D:/COMP130018/starter2/src/Image.cpp:
 
 C:/mingw64/include/c++/13.0.1/bits/stl_bvector.h:
+
+C:/mingw64/include/c++/13.0.1/bits/random.h:
 
 C:/mingw64/include/c++/13.0.1/bits/stl_uninitialized.h:
 
@@ -2397,6 +2417,8 @@ C:/mingw64/include/c++/13.0.1/bits/utility.h:
 
 C:/mingw64/include/c++/13.0.1/debug/debug.h:
 
+C:/mingw64/include/c++/13.0.1/bits/stl_numeric.h:
+
 C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h:
 
 C:/mingw64/include/c++/13.0.1/bits/predefined_ops.h:
@@ -2446,6 +2468,8 @@ C:/mingw64/include/c++/13.0.1/x86_64-w64-mingw32/bits/gthr-default.h:
 C:/mingw64/include/c++/13.0.1/typeinfo:
 
 C:/mingw64/include/c++/13.0.1/cerrno:
+
+C:/mingw64/include/c++/13.0.1/numeric:
 
 C:/mingw64/include/c++/13.0.1/x86_64-w64-mingw32/bits/c++io.h:
 
@@ -2504,6 +2528,8 @@ C:/mingw64/include/c++/13.0.1/ext/alloc_traits.h:
 C:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/mcfgthread/atomic.h:
+
+C:/mingw64/include/c++/13.0.1/x86_64-w64-mingw32/bits/opt_random.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/mcfgthread/cond.h:
 

@@ -177,4 +177,11 @@ CMakeFiles/a2.dir/src/Renderer.cpp.obj: \
  C:/mingw64/include/c++/13.0.1/bits/algorithmfwd.h \
  C:/mingw64/include/c++/13.0.1/bits/stl_heap.h \
  C:/mingw64/include/c++/13.0.1/bits/uniform_int_dist.h \
- C:/mingw64/include/c++/13.0.1/bits/stl_tempbuf.h
+ C:/mingw64/include/c++/13.0.1/bits/stl_tempbuf.h \
+ C:/mingw64/include/c++/13.0.1/random \
+ C:/mingw64/include/c++/13.0.1/cstdint \
+ C:/mingw64/include/c++/13.0.1/bits/random.h \
+ C:/mingw64/include/c++/13.0.1/x86_64-w64-mingw32/bits/opt_random.h \
+ C:/mingw64/include/c++/13.0.1/bits/random.tcc \
+ C:/mingw64/include/c++/13.0.1/numeric \
+ C:/mingw64/include/c++/13.0.1/bits/stl_numeric.h
