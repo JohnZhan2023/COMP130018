@@ -12,4 +12,4 @@ set BIN=build\a2.exe
 ::%BIN% -size %SIZE% -input data/scene06_bunny_1k.txt -bounces 4 -output out\a06.png -normals out\a06n.png -depth 8 18 out\a06d.png 
 ::%BIN% -size %SIZE% -input data/scene07_arch.txt -bounces 4 -shadows -output out\a07.png -normals out\a07n.png -depth 8 18 out\a07d.png
 %BIN% -size %SIZE% -input data/scene06_bunny_1k.txt -bounces 4 -filter -jitter -output out\a06_.png -normals out\a06n_.png -depth 8 18 out\a06d_.png 
-::%BIN% -size %SIZE% -input data/scene07_arch.txt -bounces 4 -shadows -filter -jitter -output out\a07_.png -normals out\a07n_.png -depth 8 18 out\a07d_.png
+%BIN% -size %SIZE% -input data/scene07_arch.txt -bounces 4 -shadows -filter -jitter -output out\a07_.png -normals out\a07n_.png -depth 8 18 out\a07d_.png

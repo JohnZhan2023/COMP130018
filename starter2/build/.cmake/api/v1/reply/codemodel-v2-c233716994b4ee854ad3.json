@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "vecmath",
+					"jsonFile" : "directory-vecmath-Debug-f41f10d88b6a908a4197.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "vecmath",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "a2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "a2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-a2-Debug-5538cb3ebb38a190f525.json",
+					"name" : "a2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "share::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-share-Debug-4aad39ab03509d2fb326.json",
+					"name" : "share",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "submit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-submit-Debug-4a56065500082857a107.json",
+					"name" : "submit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "vecmath::@6a95a304bf267d4ab48b",
+					"jsonFile" : "target-vecmath-Debug-bc8473e46d9aee40bee9.json",
+					"name" : "vecmath",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/COMP130018/starter2/build",
+		"source" : "D:/COMP130018/starter2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

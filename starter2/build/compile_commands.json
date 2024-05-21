@@ -1,0 +1,128 @@
+[
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\main.cpp.obj -c D:\\COMP130018\\starter2\\src\\main.cpp",
+  "file": "D:/COMP130018/starter2/src/main.cpp",
+  "output": "CMakeFiles/a2.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\stb.cpp.obj -c D:\\COMP130018\\starter2\\src\\stb.cpp",
+  "file": "D:/COMP130018/starter2/src/stb.cpp",
+  "output": "CMakeFiles/a2.dir/src/stb.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\ArgParser.cpp.obj -c D:\\COMP130018\\starter2\\src\\ArgParser.cpp",
+  "file": "D:/COMP130018/starter2/src/ArgParser.cpp",
+  "output": "CMakeFiles/a2.dir/src/ArgParser.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Camera.cpp.obj -c D:\\COMP130018\\starter2\\src\\Camera.cpp",
+  "file": "D:/COMP130018/starter2/src/Camera.cpp",
+  "output": "CMakeFiles/a2.dir/src/Camera.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\CubeMap.cpp.obj -c D:\\COMP130018\\starter2\\src\\CubeMap.cpp",
+  "file": "D:/COMP130018/starter2/src/CubeMap.cpp",
+  "output": "CMakeFiles/a2.dir/src/CubeMap.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Image.cpp.obj -c D:\\COMP130018\\starter2\\src\\Image.cpp",
+  "file": "D:/COMP130018/starter2/src/Image.cpp",
+  "output": "CMakeFiles/a2.dir/src/Image.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Light.cpp.obj -c D:\\COMP130018\\starter2\\src\\Light.cpp",
+  "file": "D:/COMP130018/starter2/src/Light.cpp",
+  "output": "CMakeFiles/a2.dir/src/Light.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Material.cpp.obj -c D:\\COMP130018\\starter2\\src\\Material.cpp",
+  "file": "D:/COMP130018/starter2/src/Material.cpp",
+  "output": "CMakeFiles/a2.dir/src/Material.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Mesh.cpp.obj -c D:\\COMP130018\\starter2\\src\\Mesh.cpp",
+  "file": "D:/COMP130018/starter2/src/Mesh.cpp",
+  "output": "CMakeFiles/a2.dir/src/Mesh.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Object3D.cpp.obj -c D:\\COMP130018\\starter2\\src\\Object3D.cpp",
+  "file": "D:/COMP130018/starter2/src/Object3D.cpp",
+  "output": "CMakeFiles/a2.dir/src/Object3D.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Octree.cpp.obj -c D:\\COMP130018\\starter2\\src\\Octree.cpp",
+  "file": "D:/COMP130018/starter2/src/Octree.cpp",
+  "output": "CMakeFiles/a2.dir/src/Octree.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\Renderer.cpp.obj -c D:\\COMP130018\\starter2\\src\\Renderer.cpp",
+  "file": "D:/COMP130018/starter2/src/Renderer.cpp",
+  "output": "CMakeFiles/a2.dir/src/Renderer.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\SceneParser.cpp.obj -c D:\\COMP130018\\starter2\\src\\SceneParser.cpp",
+  "file": "D:/COMP130018/starter2/src/SceneParser.cpp",
+  "output": "CMakeFiles/a2.dir/src/SceneParser.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/a2.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\a2.dir\\src\\VecUtils.cpp.obj -c D:\\COMP130018\\starter2\\src\\VecUtils.cpp",
+  "file": "D:/COMP130018/starter2/src/VecUtils.cpp",
+  "output": "CMakeFiles/a2.dir/src/VecUtils.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Matrix2f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Matrix2f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Matrix2f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Matrix2f.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Matrix3f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Matrix3f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Matrix3f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Matrix3f.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Matrix4f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Matrix4f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Matrix4f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Matrix4f.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Quat4f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Quat4f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Quat4f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Quat4f.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Vector2f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Vector2f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Vector2f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Vector2f.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Vector3f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Vector3f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Vector3f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Vector3f.cpp.obj"
+},
+{
+  "directory": "D:/COMP130018/starter2/build/vecmath",
+  "command": "c:\\mingw64\\bin\\g++.exe  @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\vecmath.dir\\Vector4f.cpp.obj -c D:\\COMP130018\\starter2\\vecmath\\Vector4f.cpp",
+  "file": "D:/COMP130018/starter2/vecmath/Vector4f.cpp",
+  "output": "vecmath/CMakeFiles/vecmath.dir/Vector4f.cpp.obj"
+}
+]

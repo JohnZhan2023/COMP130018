@@ -147,6 +147,7 @@ Renderer::Render()
             //std::cout<<x<<" "<<y<<" "<<std::endl;
             Hit h;
             //std::cout<<r.getDirection().x()<<" "<<r.getDirection().y()<<" "<<r.getDirection().z()<<std::endl;
+
             Vector3f color = traceRay(r, cam->getTMin(), _args.bounces, h);
             //std::cout<<color.x()<<" "<<color.y()<<" "<<color.z()<<std::endl;
 
@@ -192,7 +193,10 @@ Renderer::traceRay(const Ray &r,
     // }
     //std::cout<<"traceRay"<<std::endl;
     if(bounces==0&&_args.bounces!=0)
-        return  _scene.getAmbientLight();
+        //std::cout<<h.getMaterial()->getDiffuseColor().x()<<" "<<h.getMaterial()->getDiffuseColor().y()<<" "<<h.getMaterial()->getDiffuseColor().z()<<std::endl;
+        // return  _scene.getAmbientLight()*h.getMaterial()->getDiffuseColor();
+        return Vector3f::ZERO;
+
     if (_scene.getGroup()->intersect(r, tmin, h)) {
         Vector3f ambientLight= _scene.getAmbientLight();
         Vector3f color= Vector3f::ZERO;
@@ -215,6 +219,7 @@ Renderer::traceRay(const Ray &r,
                 
             }
         //std::cout<<color.x()<<" "<<color.y()<<" "<<color.z()<<std::endl;
+        //std::cout<<bounces<<std::endl;
         if(bounces>0){
                     Vector3f N= h.getNormal().normalized();
                     Vector3f L= -r.getDirection().normalized();
@@ -223,8 +228,8 @@ Renderer::traceRay(const Ray &r,
                     Hit new_h;
                     color+=traceRay(new_r,tmin,bounces-1,new_h)*h.getMaterial()->getSpecularColor();
                 }
-        if(_args.bounces==0)
-            return color+ambientLight;
+        if(_args.bounces==bounces)
+            return color+ambientLight*h.getMaterial()->getDiffuseColor();
         else return color;
     } else {
         return _scene.getBackgroundColor(r.getDirection());

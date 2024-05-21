@@ -73,210 +73,210 @@ CMakeFiles/a2.dir/src/main.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/main.cpp.obj: D:/COMP130018/starter2/src/main.cpp
 CMakeFiles/a2.dir/src/main.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a2.dir/src/main.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/main.cpp.obj -MF CMakeFiles\a2.dir\src\main.cpp.obj.d -o CMakeFiles\a2.dir\src\main.cpp.obj -c D:\COMP130018\starter2\src\main.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/main.cpp.obj -MF CMakeFiles\a2.dir\src\main.cpp.obj.d -o CMakeFiles\a2.dir\src\main.cpp.obj -c D:\COMP130018\starter2\src\main.cpp
 
 CMakeFiles/a2.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/main.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\main.cpp > CMakeFiles\a2.dir\src\main.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\main.cpp > CMakeFiles\a2.dir\src\main.cpp.i
 
 CMakeFiles/a2.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/main.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\main.cpp -o CMakeFiles\a2.dir\src\main.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\main.cpp -o CMakeFiles\a2.dir\src\main.cpp.s
 
 CMakeFiles/a2.dir/src/stb.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/stb.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/stb.cpp.obj: D:/COMP130018/starter2/src/stb.cpp
 CMakeFiles/a2.dir/src/stb.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/a2.dir/src/stb.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/stb.cpp.obj -MF CMakeFiles\a2.dir\src\stb.cpp.obj.d -o CMakeFiles\a2.dir\src\stb.cpp.obj -c D:\COMP130018\starter2\src\stb.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/stb.cpp.obj -MF CMakeFiles\a2.dir\src\stb.cpp.obj.d -o CMakeFiles\a2.dir\src\stb.cpp.obj -c D:\COMP130018\starter2\src\stb.cpp
 
 CMakeFiles/a2.dir/src/stb.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/stb.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\stb.cpp > CMakeFiles\a2.dir\src\stb.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\stb.cpp > CMakeFiles\a2.dir\src\stb.cpp.i
 
 CMakeFiles/a2.dir/src/stb.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/stb.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\stb.cpp -o CMakeFiles\a2.dir\src\stb.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\stb.cpp -o CMakeFiles\a2.dir\src\stb.cpp.s
 
 CMakeFiles/a2.dir/src/ArgParser.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/ArgParser.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/ArgParser.cpp.obj: D:/COMP130018/starter2/src/ArgParser.cpp
 CMakeFiles/a2.dir/src/ArgParser.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/a2.dir/src/ArgParser.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/ArgParser.cpp.obj -MF CMakeFiles\a2.dir\src\ArgParser.cpp.obj.d -o CMakeFiles\a2.dir\src\ArgParser.cpp.obj -c D:\COMP130018\starter2\src\ArgParser.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/ArgParser.cpp.obj -MF CMakeFiles\a2.dir\src\ArgParser.cpp.obj.d -o CMakeFiles\a2.dir\src\ArgParser.cpp.obj -c D:\COMP130018\starter2\src\ArgParser.cpp
 
 CMakeFiles/a2.dir/src/ArgParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/ArgParser.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\ArgParser.cpp > CMakeFiles\a2.dir\src\ArgParser.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\ArgParser.cpp > CMakeFiles\a2.dir\src\ArgParser.cpp.i
 
 CMakeFiles/a2.dir/src/ArgParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/ArgParser.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\ArgParser.cpp -o CMakeFiles\a2.dir\src\ArgParser.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\ArgParser.cpp -o CMakeFiles\a2.dir\src\ArgParser.cpp.s
 
 CMakeFiles/a2.dir/src/Camera.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Camera.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Camera.cpp.obj: D:/COMP130018/starter2/src/Camera.cpp
 CMakeFiles/a2.dir/src/Camera.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/a2.dir/src/Camera.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Camera.cpp.obj -MF CMakeFiles\a2.dir\src\Camera.cpp.obj.d -o CMakeFiles\a2.dir\src\Camera.cpp.obj -c D:\COMP130018\starter2\src\Camera.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Camera.cpp.obj -MF CMakeFiles\a2.dir\src\Camera.cpp.obj.d -o CMakeFiles\a2.dir\src\Camera.cpp.obj -c D:\COMP130018\starter2\src\Camera.cpp
 
 CMakeFiles/a2.dir/src/Camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Camera.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Camera.cpp > CMakeFiles\a2.dir\src\Camera.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Camera.cpp > CMakeFiles\a2.dir\src\Camera.cpp.i
 
 CMakeFiles/a2.dir/src/Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Camera.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Camera.cpp -o CMakeFiles\a2.dir\src\Camera.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Camera.cpp -o CMakeFiles\a2.dir\src\Camera.cpp.s
 
 CMakeFiles/a2.dir/src/CubeMap.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/CubeMap.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/CubeMap.cpp.obj: D:/COMP130018/starter2/src/CubeMap.cpp
 CMakeFiles/a2.dir/src/CubeMap.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/a2.dir/src/CubeMap.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/CubeMap.cpp.obj -MF CMakeFiles\a2.dir\src\CubeMap.cpp.obj.d -o CMakeFiles\a2.dir\src\CubeMap.cpp.obj -c D:\COMP130018\starter2\src\CubeMap.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/CubeMap.cpp.obj -MF CMakeFiles\a2.dir\src\CubeMap.cpp.obj.d -o CMakeFiles\a2.dir\src\CubeMap.cpp.obj -c D:\COMP130018\starter2\src\CubeMap.cpp
 
 CMakeFiles/a2.dir/src/CubeMap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/CubeMap.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\CubeMap.cpp > CMakeFiles\a2.dir\src\CubeMap.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\CubeMap.cpp > CMakeFiles\a2.dir\src\CubeMap.cpp.i
 
 CMakeFiles/a2.dir/src/CubeMap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/CubeMap.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\CubeMap.cpp -o CMakeFiles\a2.dir\src\CubeMap.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\CubeMap.cpp -o CMakeFiles\a2.dir\src\CubeMap.cpp.s
 
 CMakeFiles/a2.dir/src/Image.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Image.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Image.cpp.obj: D:/COMP130018/starter2/src/Image.cpp
 CMakeFiles/a2.dir/src/Image.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/a2.dir/src/Image.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Image.cpp.obj -MF CMakeFiles\a2.dir\src\Image.cpp.obj.d -o CMakeFiles\a2.dir\src\Image.cpp.obj -c D:\COMP130018\starter2\src\Image.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Image.cpp.obj -MF CMakeFiles\a2.dir\src\Image.cpp.obj.d -o CMakeFiles\a2.dir\src\Image.cpp.obj -c D:\COMP130018\starter2\src\Image.cpp
 
 CMakeFiles/a2.dir/src/Image.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Image.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Image.cpp > CMakeFiles\a2.dir\src\Image.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Image.cpp > CMakeFiles\a2.dir\src\Image.cpp.i
 
 CMakeFiles/a2.dir/src/Image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Image.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Image.cpp -o CMakeFiles\a2.dir\src\Image.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Image.cpp -o CMakeFiles\a2.dir\src\Image.cpp.s
 
 CMakeFiles/a2.dir/src/Light.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Light.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Light.cpp.obj: D:/COMP130018/starter2/src/Light.cpp
 CMakeFiles/a2.dir/src/Light.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/a2.dir/src/Light.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Light.cpp.obj -MF CMakeFiles\a2.dir\src\Light.cpp.obj.d -o CMakeFiles\a2.dir\src\Light.cpp.obj -c D:\COMP130018\starter2\src\Light.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Light.cpp.obj -MF CMakeFiles\a2.dir\src\Light.cpp.obj.d -o CMakeFiles\a2.dir\src\Light.cpp.obj -c D:\COMP130018\starter2\src\Light.cpp
 
 CMakeFiles/a2.dir/src/Light.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Light.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Light.cpp > CMakeFiles\a2.dir\src\Light.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Light.cpp > CMakeFiles\a2.dir\src\Light.cpp.i
 
 CMakeFiles/a2.dir/src/Light.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Light.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Light.cpp -o CMakeFiles\a2.dir\src\Light.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Light.cpp -o CMakeFiles\a2.dir\src\Light.cpp.s
 
 CMakeFiles/a2.dir/src/Material.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Material.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Material.cpp.obj: D:/COMP130018/starter2/src/Material.cpp
 CMakeFiles/a2.dir/src/Material.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/a2.dir/src/Material.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Material.cpp.obj -MF CMakeFiles\a2.dir\src\Material.cpp.obj.d -o CMakeFiles\a2.dir\src\Material.cpp.obj -c D:\COMP130018\starter2\src\Material.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Material.cpp.obj -MF CMakeFiles\a2.dir\src\Material.cpp.obj.d -o CMakeFiles\a2.dir\src\Material.cpp.obj -c D:\COMP130018\starter2\src\Material.cpp
 
 CMakeFiles/a2.dir/src/Material.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Material.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Material.cpp > CMakeFiles\a2.dir\src\Material.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Material.cpp > CMakeFiles\a2.dir\src\Material.cpp.i
 
 CMakeFiles/a2.dir/src/Material.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Material.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Material.cpp -o CMakeFiles\a2.dir\src\Material.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Material.cpp -o CMakeFiles\a2.dir\src\Material.cpp.s
 
 CMakeFiles/a2.dir/src/Mesh.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Mesh.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Mesh.cpp.obj: D:/COMP130018/starter2/src/Mesh.cpp
 CMakeFiles/a2.dir/src/Mesh.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/a2.dir/src/Mesh.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Mesh.cpp.obj -MF CMakeFiles\a2.dir\src\Mesh.cpp.obj.d -o CMakeFiles\a2.dir\src\Mesh.cpp.obj -c D:\COMP130018\starter2\src\Mesh.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Mesh.cpp.obj -MF CMakeFiles\a2.dir\src\Mesh.cpp.obj.d -o CMakeFiles\a2.dir\src\Mesh.cpp.obj -c D:\COMP130018\starter2\src\Mesh.cpp
 
 CMakeFiles/a2.dir/src/Mesh.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Mesh.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Mesh.cpp > CMakeFiles\a2.dir\src\Mesh.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Mesh.cpp > CMakeFiles\a2.dir\src\Mesh.cpp.i
 
 CMakeFiles/a2.dir/src/Mesh.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Mesh.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Mesh.cpp -o CMakeFiles\a2.dir\src\Mesh.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Mesh.cpp -o CMakeFiles\a2.dir\src\Mesh.cpp.s
 
 CMakeFiles/a2.dir/src/Object3D.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Object3D.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Object3D.cpp.obj: D:/COMP130018/starter2/src/Object3D.cpp
 CMakeFiles/a2.dir/src/Object3D.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/a2.dir/src/Object3D.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Object3D.cpp.obj -MF CMakeFiles\a2.dir\src\Object3D.cpp.obj.d -o CMakeFiles\a2.dir\src\Object3D.cpp.obj -c D:\COMP130018\starter2\src\Object3D.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Object3D.cpp.obj -MF CMakeFiles\a2.dir\src\Object3D.cpp.obj.d -o CMakeFiles\a2.dir\src\Object3D.cpp.obj -c D:\COMP130018\starter2\src\Object3D.cpp
 
 CMakeFiles/a2.dir/src/Object3D.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Object3D.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Object3D.cpp > CMakeFiles\a2.dir\src\Object3D.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Object3D.cpp > CMakeFiles\a2.dir\src\Object3D.cpp.i
 
 CMakeFiles/a2.dir/src/Object3D.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Object3D.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Object3D.cpp -o CMakeFiles\a2.dir\src\Object3D.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Object3D.cpp -o CMakeFiles\a2.dir\src\Object3D.cpp.s
 
 CMakeFiles/a2.dir/src/Octree.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Octree.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Octree.cpp.obj: D:/COMP130018/starter2/src/Octree.cpp
 CMakeFiles/a2.dir/src/Octree.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/a2.dir/src/Octree.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Octree.cpp.obj -MF CMakeFiles\a2.dir\src\Octree.cpp.obj.d -o CMakeFiles\a2.dir\src\Octree.cpp.obj -c D:\COMP130018\starter2\src\Octree.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Octree.cpp.obj -MF CMakeFiles\a2.dir\src\Octree.cpp.obj.d -o CMakeFiles\a2.dir\src\Octree.cpp.obj -c D:\COMP130018\starter2\src\Octree.cpp
 
 CMakeFiles/a2.dir/src/Octree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Octree.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Octree.cpp > CMakeFiles\a2.dir\src\Octree.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Octree.cpp > CMakeFiles\a2.dir\src\Octree.cpp.i
 
 CMakeFiles/a2.dir/src/Octree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Octree.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Octree.cpp -o CMakeFiles\a2.dir\src\Octree.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Octree.cpp -o CMakeFiles\a2.dir\src\Octree.cpp.s
 
 CMakeFiles/a2.dir/src/Renderer.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/Renderer.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/Renderer.cpp.obj: D:/COMP130018/starter2/src/Renderer.cpp
 CMakeFiles/a2.dir/src/Renderer.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/a2.dir/src/Renderer.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Renderer.cpp.obj -MF CMakeFiles\a2.dir\src\Renderer.cpp.obj.d -o CMakeFiles\a2.dir\src\Renderer.cpp.obj -c D:\COMP130018\starter2\src\Renderer.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/Renderer.cpp.obj -MF CMakeFiles\a2.dir\src\Renderer.cpp.obj.d -o CMakeFiles\a2.dir\src\Renderer.cpp.obj -c D:\COMP130018\starter2\src\Renderer.cpp
 
 CMakeFiles/a2.dir/src/Renderer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/Renderer.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Renderer.cpp > CMakeFiles\a2.dir\src\Renderer.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\Renderer.cpp > CMakeFiles\a2.dir\src\Renderer.cpp.i
 
 CMakeFiles/a2.dir/src/Renderer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/Renderer.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Renderer.cpp -o CMakeFiles\a2.dir\src\Renderer.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\Renderer.cpp -o CMakeFiles\a2.dir\src\Renderer.cpp.s
 
 CMakeFiles/a2.dir/src/SceneParser.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/SceneParser.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/SceneParser.cpp.obj: D:/COMP130018/starter2/src/SceneParser.cpp
 CMakeFiles/a2.dir/src/SceneParser.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/a2.dir/src/SceneParser.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/SceneParser.cpp.obj -MF CMakeFiles\a2.dir\src\SceneParser.cpp.obj.d -o CMakeFiles\a2.dir\src\SceneParser.cpp.obj -c D:\COMP130018\starter2\src\SceneParser.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/SceneParser.cpp.obj -MF CMakeFiles\a2.dir\src\SceneParser.cpp.obj.d -o CMakeFiles\a2.dir\src\SceneParser.cpp.obj -c D:\COMP130018\starter2\src\SceneParser.cpp
 
 CMakeFiles/a2.dir/src/SceneParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/SceneParser.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\SceneParser.cpp > CMakeFiles\a2.dir\src\SceneParser.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\SceneParser.cpp > CMakeFiles\a2.dir\src\SceneParser.cpp.i
 
 CMakeFiles/a2.dir/src/SceneParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/SceneParser.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\SceneParser.cpp -o CMakeFiles\a2.dir\src\SceneParser.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\SceneParser.cpp -o CMakeFiles\a2.dir\src\SceneParser.cpp.s
 
 CMakeFiles/a2.dir/src/VecUtils.cpp.obj: CMakeFiles/a2.dir/flags.make
 CMakeFiles/a2.dir/src/VecUtils.cpp.obj: CMakeFiles/a2.dir/includes_CXX.rsp
 CMakeFiles/a2.dir/src/VecUtils.cpp.obj: D:/COMP130018/starter2/src/VecUtils.cpp
 CMakeFiles/a2.dir/src/VecUtils.cpp.obj: CMakeFiles/a2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\COMP130018\starter2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/a2.dir/src/VecUtils.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/VecUtils.cpp.obj -MF CMakeFiles\a2.dir\src\VecUtils.cpp.obj.d -o CMakeFiles\a2.dir\src\VecUtils.cpp.obj -c D:\COMP130018\starter2\src\VecUtils.cpp
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/a2.dir/src/VecUtils.cpp.obj -MF CMakeFiles\a2.dir\src\VecUtils.cpp.obj.d -o CMakeFiles\a2.dir\src\VecUtils.cpp.obj -c D:\COMP130018\starter2\src\VecUtils.cpp
 
 CMakeFiles/a2.dir/src/VecUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a2.dir/src/VecUtils.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\VecUtils.cpp > CMakeFiles\a2.dir\src\VecUtils.cpp.i
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\COMP130018\starter2\src\VecUtils.cpp > CMakeFiles\a2.dir\src\VecUtils.cpp.i
 
 CMakeFiles/a2.dir/src/VecUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a2.dir/src/VecUtils.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\VecUtils.cpp -o CMakeFiles\a2.dir\src\VecUtils.cpp.s
+	c:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\COMP130018\starter2\src\VecUtils.cpp -o CMakeFiles\a2.dir\src\VecUtils.cpp.s
 
 # Object files for target a2
 a2_OBJECTS = \
